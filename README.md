@@ -1,7 +1,7 @@
 <H3> Name: DHARSHAN D </H3>
 <H3>Register No.: 212223230045</H3>
 <H3> Experiment 1</H3>
-<H3>DATE: 26/02/2024</H3>
+<H3>DATE: 16/04/2025</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
